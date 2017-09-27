@@ -1,0 +1,37 @@
+p {
+  color: #2c3e50;
+  background-color: white;
+}
+
+body {
+  font-family: arial;
+  font-size: 22pt;
+  background-image: url(images/space.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+div {
+  /*color: #FFFFFF;*/
+  text-align: center;
+  opacity: .5;
+  background-color: #FFFFFF;
+  width:1300px;
+  height: 900px;
+  margin:0 auto;
+}
+
+ul {
+  text-align: left;
+}
+
+a {
+    background-color: white;
+    color: #ca33ff;
+}
+
+a:hover {
+    background-color: grey;
+    color: white;
+}
